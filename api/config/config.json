@@ -15,10 +15,10 @@
     "dialect": "postgres"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "username": "postgres",
+    "password": "Santarrosa97",
+    "database": "artes",
+    "host": "35.188.152.26",
     "dialect": "postgres"
   }
 }
