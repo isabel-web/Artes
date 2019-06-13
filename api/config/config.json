@@ -1,11 +1,11 @@
 {
   "development": {
     "username": "postgres",
-    "password": "12345",
-    "database": "Pinturas",
-    "host": "127.0.0.1",
-    "dialect": "postgres",
-    "port": 5433
+    "password": "Santarrosa97",
+    "database": "artes",
+    "host": "35.188.152.26",
+    "dialect": "postgres"
+    
   },
   "test": {
     "username": "root",
